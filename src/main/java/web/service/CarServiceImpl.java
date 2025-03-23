@@ -15,6 +15,7 @@ public class CarServiceImpl implements CarService {
         carList.add(new Car("Toyota", "Tundra", 1999));
         carList.add(new Car("Nissan", "Navara", 1997));
         carList.add(new Car("Mitsubishi", "Pajero", 1981));
+        carList.add(new Car("Hyundai", "Galloper", 1991));
     }
 
     @Override
